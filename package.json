@@ -1,0 +1,20 @@
+{
+  "name": "eslint-formatter-fix-dry-run",
+  "version": "0.0.0-dev",
+  "description": "Outputs fixed file content to stdout; for use with --fix-dry-run",
+  "repository": "github:hallettj/eslint-formatter-fix-dry-run",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslint-formatter",
+    "eslintformatter"
+  ],
+  "main": "index.js",
+  "files": [],
+  "scripts": {
+    "test": "echo 'TODO: tests'"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.3.1"
+  }
+}
